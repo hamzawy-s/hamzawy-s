@@ -13,7 +13,7 @@ From Electrical Power Networks to Computer Networks
 Started in Electrical Power Networks (2023)  
 Now a 3rd-year Networks student at New Cairo University  
 
-Certified in CompTIA Network+  
+Certified in CompTIA Network+ ,CompTIA Linux+ ,and Certified Ethical Hacker (CEH)
 Working on real-world IT systems  
 
 I analyze systems  
