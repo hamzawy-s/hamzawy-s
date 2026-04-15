@@ -1,84 +1,136 @@
-# Hamza Shukri 👋
+# Hamza Saeed Shukri 
 
-Cybersecurity Specialist | Network Engineer | Red Team Learner
+IT & Networks Engineer | Cybersecurity | Red Team Learner  
 
-I build practical security solutions and test real-world systems.  
-Focused on penetration testing, network security, and automation.
-
----
-
-## 🚀 What I Do
-
-- Penetration Testing (Web / Network)
-- Vulnerability Assessment
-- Security Tool Development
-- Network Setup & Hardening
+Active in Web Penetration Testing and Security Engineering  
 
 ---
 
-## 🛠 Skills
+##  About Me
 
-- Networking: CCNA, Network+
-- Linux: Kali, Debian
-- Web Security: XSS, SQLi, IDOR, Auth Bypass
-- Tools: Nmap, Burp Suite, Metasploit
-- Programming: Python, PHP, C++
-- Databases: MySQL
+From Electrical Power Networks to Computer Networks  
+
+Started in Electrical Power Networks (2023)  
+Now a 3rd-year Networks student at New Cairo University  
+
+Certified in CompTIA Network+  
+Working on real-world IT systems  
+
+I analyze systems  
+I break them  
+I secure them  
 
 ---
 
-## 🔥 Projects
+##  Current Status
 
-### Athena v2.0
-Professional security analysis engine  
-- Detects real vulnerabilities  
-- Generates structured reports  
-- AI-powered logic  
+- Focus: Web Penetration Testing  
+- Track: Red Team Operations  
+- Learning: Active Directory Attacks  
 
-### nu_ares
+---
+
+##  Technical Skills
+
+###  Networking
+- TCP/IP, Subnetting, VLSM  
+- VLANs, STP, EtherChannel  
+- OSPF, EIGRP  
+- ACLs, NAT  
+- DHCP, DNS, VPN  
+
+###  Cybersecurity
+- Network Pentesting  
+- Web Pentesting (OWASP Top 10)  
+- Vulnerability Assessment  
+- Privilege Escalation (Win/Linux)  
+- OSINT & Recon  
+
+###  Tools
+- Nmap, Wireshark  
+- Metasploit  
+- Burp Suite  
+- Gobuster, FFUF  
+- Kali Linux  
+
+###  Programming
+- Python  
+- C++  
+- PHP  
+- JavaScript  
+- Bash / PowerShell  
+- SQL  
+
+---
+
+##  Projects
+
+### 🔹 Athena
+AI-based security engine  
+- Vulnerability analysis  
+- Structured output  
+- Moving to production  
+
+### 🔹 Ares
 Modular security framework  
-- Smart scanning  
 - Request engine  
+- Deduplication logic  
 - Evasion techniques  
 
----
+### 🔹 Cybersecurity Lab
+- Attack simulation  
+- FTP exploitation  
+- System enumeration  
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=hamzawy-s&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzawy-s&layout=compact)
-
----
-
-## 📌 Current Focus
-
-- Advanced Web Pentesting  
-- Active Directory Attacks  
-- Red Team Methodology  
-- Building custom offensive tools  
+### 🔹 Enterprise Network
+- Client / Server setup  
+- Centralized control  
+- Secure infrastructure  
 
 ---
 
-## 💼 Freelance Services
+##  Freelance Services
 
-- Website Security Testing  
-- Network Setup & Security  
-- Bug Hunting Reports  
-- Fixing Vulnerabilities  
+- Network setup  
+- VLAN configuration  
+- Security hardening  
+- Vulnerability assessment  
+- IT troubleshooting  
 
 ---
 
-## 📫 Contact
+##  Who I Help
 
+- Small businesses  
+- Startups  
+- Store owners  
+- IT managers  
+
+---
+
+##  Current Work
+
+- Web Security Labs (PortSwigger)  
+- CTF Challenges (TryHackMe / HackTheBox)  
+- Red Team Techniques  
+
+---
+
+##  Contact
+
+- Email: hmzts799@gmail.com  
 - GitHub: https://github.com/hamzawy-s  
-- Portfolio: https://hamza-shukri.netlify.app/  
+- LinkedIn: https://linkedin.com/in/hamza-saeed-shukri  
 
 ---
 
-## ⚡ Mindset
+##  Mindset
 
-I don’t just learn security.  
-I build tools.  
-I break systems.  
-I fix them.
+I don’t just study security  
+I apply it  
+
+I don’t just find vulnerabilities  
+I understand them  
+
+I don’t just report issues  
+I fix them  
