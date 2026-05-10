@@ -8,7 +8,6 @@ Focused on Offensive Security Engineering, Web Application Security, and Infrast
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=hamzawy-s&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-red" />
 <img src="https://img.shields.io/badge/Cybersecurity-Red%20Team-darkred" />
