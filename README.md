@@ -9,7 +9,7 @@ Focused on Offensive Security Engineering, Web Application Security, and Infrast
 <br>
 
 
-<img src="https://img.shields.io/badge/TryHackMe-Top%205%25-red" />
+<img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red" />
 <img src="https://img.shields.io/badge/Cybersecurity-Red%20Team-darkred" />
 <img src="https://img.shields.io/badge/Linux-Kali%20%7C%20Debian-black" />
 <img src="https://img.shields.io/badge/Python-Advanced-blue" />
